@@ -228,21 +228,3 @@ img {
   }
 
 }
-@media (min-width: 768px) {
-  .cards-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.25rem;
-  }
-
-  .hero {
-    padding: 6.5rem 0;
-  }
-
-  .hero_title {
-    font-size: 2rem;
-  }
-
-  .card {
-    padding: 1.2rem;
-  }
-}
